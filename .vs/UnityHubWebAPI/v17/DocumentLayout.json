@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITC\\UnityHubWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CD9EC2-D460-48E4-B0E5-5A0F19022159}|UnityHubWebAPI\\UnityHubWebAPI.csproj|f:\\itc\\unityhubwebapi\\unityhubwebapi\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CD9EC2-D460-48E4-B0E5-5A0F19022159}|UnityHubWebAPI\\UnityHubWebAPI.csproj|solutionrelative:unityhubwebapi\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CD9EC2-D460-48E4-B0E5-5A0F19022159}|UnityHubWebAPI\\UnityHubWebAPI.csproj|f:\\itc\\unityhubwebapi\\unityhubwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CD9EC2-D460-48E4-B0E5-5A0F19022159}|UnityHubWebAPI\\UnityHubWebAPI.csproj|solutionrelative:unityhubwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CD9EC2-D460-48E4-B0E5-5A0F19022159}|UnityHubWebAPI\\UnityHubWebAPI.csproj|f:\\itc\\unityhubwebapi\\unityhubwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CD9EC2-D460-48E4-B0E5-5A0F19022159}|UnityHubWebAPI\\UnityHubWebAPI.csproj|solutionrelative:unityhubwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CD9EC2-D460-48E4-B0E5-5A0F19022159}|UnityHubWebAPI\\UnityHubWebAPI.csproj|f:\\itc\\unityhubwebapi\\unityhubwebapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CD9EC2-D460-48E4-B0E5-5A0F19022159}|UnityHubWebAPI\\UnityHubWebAPI.csproj|solutionrelative:unityhubwebapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CD9EC2-D460-48E4-B0E5-5A0F19022159}|UnityHubWebAPI\\UnityHubWebAPI.csproj|f:\\itc\\unityhubwebapi\\unityhubwebapi\\services\\loginuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CD9EC2-D460-48E4-B0E5-5A0F19022159}|UnityHubWebAPI\\UnityHubWebAPI.csproj|solutionrelative:unityhubwebapi\\services\\loginuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CD9EC2-D460-48E4-B0E5-5A0F19022159}|UnityHubWebAPI\\UnityHubWebAPI.csproj|f:\\itc\\unityhubwebapi\\unityhubwebapi\\iservices\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CD9EC2-D460-48E4-B0E5-5A0F19022159}|UnityHubWebAPI\\UnityHubWebAPI.csproj|solutionrelative:unityhubwebapi\\iservices\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "F:\\ITC\\UnityHubWebAPI\\UnityHubWebAPI\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "UnityHubWebAPI\\DependencyInjection.cs",
+              "ToolTip": "F:\\ITC\\UnityHubWebAPI\\UnityHubWebAPI\\DependencyInjection.cs",
+              "RelativeToolTip": "UnityHubWebAPI\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:53:51.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginUserService.cs",
+              "DocumentMoniker": "F:\\ITC\\UnityHubWebAPI\\UnityHubWebAPI\\Services\\LoginUserService.cs",
+              "RelativeDocumentMoniker": "UnityHubWebAPI\\Services\\LoginUserService.cs",
+              "ToolTip": "F:\\ITC\\UnityHubWebAPI\\UnityHubWebAPI\\Services\\LoginUserService.cs",
+              "RelativeToolTip": "UnityHubWebAPI\\Services\\LoginUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:53:01.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "F:\\ITC\\UnityHubWebAPI\\UnityHubWebAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "UnityHubWebAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "F:\\ITC\\UnityHubWebAPI\\UnityHubWebAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "UnityHubWebAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:50:33.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryServices.cs",
+              "DocumentMoniker": "F:\\ITC\\UnityHubWebAPI\\UnityHubWebAPI\\Services\\CategoryServices.cs",
+              "RelativeDocumentMoniker": "UnityHubWebAPI\\Services\\CategoryServices.cs",
+              "ToolTip": "F:\\ITC\\UnityHubWebAPI\\UnityHubWebAPI\\Services\\CategoryServices.cs",
+              "RelativeToolTip": "UnityHubWebAPI\\Services\\CategoryServices.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:49:40.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryServices.cs",
+              "DocumentMoniker": "F:\\ITC\\UnityHubWebAPI\\UnityHubWebAPI\\IServices\\ICategoryServices.cs",
+              "RelativeDocumentMoniker": "UnityHubWebAPI\\IServices\\ICategoryServices.cs",
+              "ToolTip": "F:\\ITC\\UnityHubWebAPI\\UnityHubWebAPI\\IServices\\ICategoryServices.cs",
+              "RelativeToolTip": "UnityHubWebAPI\\IServices\\ICategoryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:48:43.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "F:\\ITC\\UnityHubWebAPI\\UnityHubWebAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "UnityHubWebAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "F:\\ITC\\UnityHubWebAPI\\UnityHubWebAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "UnityHubWebAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:48:22.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
